@@ -4,5 +4,6 @@ use (
 	./myFiles
 	./myInput
 	./myStrings
+	./struct
 	./variables
 )
